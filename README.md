@@ -1,6 +1,6 @@
 # supertest-jest
 
-This is a framework with Supertest and Mocha for testing Restful services
+This is a framework with Supertest and Jest for testing Restful services
 
 ## Getting Started
 
