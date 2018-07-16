@@ -1,0 +1,23 @@
+{
+    "userid1": {
+        "id": 1,
+        "first_name": "George",
+        "last_name": "Bluth",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg"
+    },
+
+    "createdUser": {
+        "name": "morpheus",
+        "job": "leader"
+    },
+
+    "updatedUser": {
+        "name": "morpheus",
+        "job": "zion resident"
+    },
+
+    "patchedUser": {
+        "job": "leader"
+    }
+
+}
