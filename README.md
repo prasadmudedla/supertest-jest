@@ -1,6 +1,6 @@
 # supertest-jest
 
-This is a framework with Supertest and Jest for testing Restful services
+This is a framework with Supertest and Jest for testing Restful services.
 
 ## Getting Started
 
@@ -16,7 +16,6 @@ cd supertest-jest
 
 npm install --save-dev
 ```
-
 
 ## Running the tests
 

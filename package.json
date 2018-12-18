@@ -1,7 +1,7 @@
 {
     "name": "supertest_jest",
     "version": "1.0.0",
-    "description": "This is a API testing framework using Supertest and Jest",
+    "description": "This is a Restful service testing framework using Supertest and Jest",
     "main": "index.js",
     "scripts": {
         "test": "jest"
@@ -22,8 +22,7 @@
             "/node_modules/"
         ],
         "reporters": [
-            "default",
-            [
+            "default", [
                 "./node_modules/jest-html-reporter",
                 {
                     "pageTitle": "Test Report",
